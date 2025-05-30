@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Atualmente estudante com foco em Desenvolvimento Web
+- 🎓 Estudante de Ciência da Computação com foco em Desenvolvimento Web
 - 🚀 Desenvolvedor Full Stack
 
 ## 🛠️ Stacks
