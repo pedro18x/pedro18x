@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Pedro+Vogado+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Entusiasta+de+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Pedro+Vogado+%F0%9F%91%8B;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre Mim
