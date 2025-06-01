@@ -5,8 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Estudante de Ciência da Computação com foco em Desenvolvimento Web
-- 🚀 Desenvolvedor Full Stack
+Sou estudante de Ciência da Computação com foco em desenvolvimento web, atuando como desenvolvedor Full Stack. Tenho experiência em projetos de front-end e back-end, sempre buscando aprimorar minhas habilidades técnicas e aprender novas tecnologias. Valorizo o trabalho em equipe e a entrega de soluções eficientes.
 
 ## 🛠️ Stacks
 
