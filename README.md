@@ -35,7 +35,3 @@ Sou estudante de Ciência da Computação com foco em desenvolvimento web, atuan
 <p align="center">
   <i>Última atualização: 2025-05-30 18:41:30 UTC</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedro18x&color=blue&style=flat-square" alt="Visualizações do perfil" />
-</p>
