@@ -31,7 +31,4 @@ Sou estudante de Ciência da Computação com foco em desenvolvimento web, atuan
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
 
----
-<p align="center">
-  <i>Última atualização: 2025-05-30 18:41:30 UTC</i>
-</p>
+
