@@ -25,7 +25,7 @@ const pedro = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 ### Frontend
 <div>
@@ -63,10 +63,6 @@ const pedro = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro18x&show_icons=true&theme=react&locale=pt-br&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&theme=react&locale=pt-br" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedro18x&theme=react&locale=pt-br" alt="GitHub Streak"/>
 </div>
 
 ---
