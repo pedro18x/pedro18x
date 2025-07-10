@@ -23,9 +23,6 @@ const pedro = {
 };
 ```
 
-🚀 **Desenvolvedor Full Stack** focado em criar soluções web modernas e eficientes  
-🤝 **Colaborativo** e focado em entregar valor através do código  
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
