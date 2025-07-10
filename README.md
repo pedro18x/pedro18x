@@ -1,6 +1,4 @@
 <div align="center">
-  
-# 🚀 Pedro Ernesto Vogado
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Pedro+Ernesto+%F0%9F%91%8B;Desenvolvedor+Full+Stack%F0%9F%92%BB" alt="Typing SVG" />
 
