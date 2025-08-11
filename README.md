@@ -59,16 +59,6 @@ const pedro = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&theme=react&locale=pt-br" alt="Top Languages"/>
 </div>
 
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-FF6B6B?style=for-the-badge&logoColor=white)](https://pedro-dev-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroernestovogado@gmail.com)
-
-**⭐ Obrigado pela visita! Considere deixar uma estrela nos repositórios que acharem interessantes!**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=pedro18x&style=flat-square&color=blue)
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
