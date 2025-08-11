@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Pedro+Ernesto+%F0%9F%91%8B;Desenvolvedor+Full+Stack%F0%9F%92%BB" alt="Typing SVG" />
 
-### Transformando ideias em soluções digitais
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://pedro-dev-five.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
 
