@@ -28,11 +28,11 @@ const stack = ["React", "Vue.js", "PHP" "Next.js", "Node.js", "TypeScript", "Pos
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,prisma&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,vercel&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" alt="Tools" />
 
 </div>
 
