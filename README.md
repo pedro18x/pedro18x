@@ -8,8 +8,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://pedro-dev-five.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
+<a href="https://linkedin.com/in/pedroernestovogado">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48" />
+</a>
 
 </div>
 
@@ -19,11 +20,11 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,prisma&theme=dark" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,vercel&theme=dark" alt="Tools" />
 
 </div>
 
