@@ -13,15 +13,6 @@
 
 </div>
 
-<br>
-
-```ts
-// João Pessoa, PB
-const stack = ["React", "Vue.js", "PHP" "Next.js", "Node.js", "TypeScript", "PostgreSQL"] as const;
-```
-
-<br>
-
 <div align="center">
 
 ### Tech Stack
