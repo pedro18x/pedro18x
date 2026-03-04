@@ -1,66 +1,70 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Pedro+Ernesto+%F0%9F%91%8B;Desenvolvedor+Full+Stack%F0%9F%92%BB" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=Pedro+Ernesto)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://pedro-dev-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
+**`Software Engineer`**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://pedro-dev-five.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroernestovogado)
 
 </div>
 
-## 🎯 Sobre Mim
+<br>
 
-```javascript
-const pedro = {
-    cargo: "Desenvolvedor Full Stack",
-    localizacao: "João Pessoa, PB",
-    focoAtual: ["React.js", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
-    interesses: ["Web Development"]
-};
+```ts
+// João Pessoa, PB
+const stack = ["React", "Vue.js", "PHP" "Next.js", "Node.js", "TypeScript", "PostgreSQL"] as const;
 ```
 
-## 🛠️ Tech Stack
-
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</div>
-
-### Database & Tools
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro18x&show_icons=true&theme=react&locale=pt-br&count_private=true" alt="GitHub Stats"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&theme=react&locale=pt-br" alt="Top Languages"/>
+
+### Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,prisma&theme=dark" alt="Backend" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,vercel&theme=dark" alt="Tools" />
+
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pedro18x&style=flat-square&color=blue)
+<br>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+
+### GitHub
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pedro18x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro18x&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pedro18x&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" />
+  <img src="https://streak-stats.demolab.com?user=pedro18x&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" />
+</picture>
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
