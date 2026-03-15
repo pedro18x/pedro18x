@@ -41,15 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pedro18x&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pedro18x&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" />
-  <img src="https://streak-stats.demolab.com?user=pedro18x&hide_border=true" alt="GitHub Streak" />
-</picture>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro18x&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" />
