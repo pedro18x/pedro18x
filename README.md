@@ -23,7 +23,7 @@
 
 > I'm a Software Engineer based in João Pessoa, Brazil.
 >
-> My day-to-day stack is TypeScript, Next, PHP, Kotlin, and whatever else the problem demands.
+> My day-to-day stack is currently TypeScript, Next, Electron, PHP, Kotlin, and whatever else the problem demands.
 >
 > Currently working at [Maestro](https://maestro.dev), the leading end-to-end testing platform for mobile and web apps.
 
@@ -45,9 +45,15 @@
 | **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com/) [![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions) |
 | **Cloud** | [![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF)](https://vercel.com/) [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) |
 | **Databases** | [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) |
+| **Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) |
 
 </details>
 
-
-
 </details>
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro18x/pedro18x/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro18x/pedro18x/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/pedro18x/pedro18x/output/github-contribution-grid-snake.svg" />
+</picture>
