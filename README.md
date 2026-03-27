@@ -17,7 +17,7 @@
 
 <!-- About Section -->
 <details>
-  <summary><b>👤 About</b></summary>
+  <summary><b>About</b></summary>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <!-- Tech Stack -->
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>Tech Stack</b></summary>
 
 <br>
 
