@@ -5,7 +5,7 @@
 <p align="center">
   <kbd>
     <a href="https://www.linkedin.com/in/pedroernestovogado/" title="LinkedIn - Pedro Ernesto"><img src="https://img.shields.io/badge/-Pedro%20Ernesto-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://pedro-dev-five.vercel.app/" title="Personal Website"><img src="https://img.shields.io/badge/-pedro--dev-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+    <a href="https://www.pedroernesto.me/" title="Personal Website"><img src="https://img.shields.io/badge/-portfolio--00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
